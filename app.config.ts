@@ -28,7 +28,7 @@ export default defineAppConfig({
       },
       navigation: true, // possible value are : true | false
       alignment: 'center', // possible value are : 'none' | 'left' | 'center' | 'right'
-      message: 'Let's get in touch' // string that will be displayed in the footer (leave empty or delete to disable)
+      message: "Let's get in touch" // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
       twitter: '',
