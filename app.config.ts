@@ -52,6 +52,7 @@ export default defineAppConfig({
         label: 'Mail',
         href: 'mailto:dev23jjl@skiff.com',
     },
+    },
     form: {
       successMessage: 'Message sent. Thank you!'
     }
