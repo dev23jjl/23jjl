@@ -2,6 +2,9 @@ export default defineAppConfig({
   alpine: {
     title: '23jjl',
     description: 'Showcase of a college student, developer, designer, philosopher, and Lutheran.',
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
