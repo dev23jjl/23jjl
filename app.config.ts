@@ -36,7 +36,21 @@ export default defineAppConfig({
       linkedin: '',      
       
       github: 'dev23jjl',
-      youtube: '@dev23jjl'
+      youtube: '@dev23jjl',
+      substack: {
+        icon: 'simple-icons:substack',
+        label: 'Substack',
+        href: 'https://23jjl.substack.com/',
+      },
+      discord: {
+        icon: 'simple-icons:discord',
+        label: 'Discord',
+        href: 'https://discordapp.com/users/23jjl',
+      },
+      mail: {
+        icon: 'heroicons-solid:envelope',
+        label: 'Mail',
+        href: 'mailto:dev23jjl@skiff.com',
     },
     form: {
       successMessage: 'Message sent. Thank you!'
