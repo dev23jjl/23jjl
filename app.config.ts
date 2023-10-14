@@ -54,6 +54,7 @@ export default defineAppConfig({
     },
     },
     form: {
+      action: 'https://submit-form.com/VkNEpHX3',
       successMessage: 'Message sent. Thank you!'
     }
   }
