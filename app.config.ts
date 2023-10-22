@@ -37,8 +37,13 @@ export default defineAppConfig({
       
       github: 'dev23jjl',
       youtube: '@dev23jjl',
+      umami: {
+        icon: 'simple-icons:umami',
+        label: 'Umami',
+        href: 'https://analytics.eu.umami.is/share/tHds3O9wptWDAt6v/23jjl',
+      },
       substack: {
-        icon: 'simple-icons:substack',
+        icon: 'arcticons:substack-reader',
         label: 'Substack',
         href: 'https://23jjl.substack.com/',
       },
