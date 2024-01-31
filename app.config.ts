@@ -42,8 +42,13 @@ export default defineAppConfig({
         label: 'Umami',
         href: 'https://analytics.eu.umami.is/share/tHds3O9wptWDAt6v/23jjl',
       },
+      figma: {
+        icon: 'simple-icons:figma',
+        label: 'Read.cv',
+        href: 'https://www.figma.com/@23jjl',
+      },
       substack: {
-        icon: 'arcticons:substack-reader',
+        icon: 'simple-icons:substack',
         label: 'Substack',
         href: 'https://23jjl.substack.com/',
       },
@@ -51,6 +56,16 @@ export default defineAppConfig({
         icon: 'simple-icons:discord',
         label: 'Discord',
         href: 'https://discordapp.com/users/23jjl',
+      },
+      readcv: {
+        icon: 'simple-icons:readdotcv',
+        label: 'Read.cv',
+        href: 'https://read.cv/james.johanningmeier',
+      },
+      bento: {
+        icon: 'simple-icons:bento',
+        label: 'Bento',
+        href: 'https://bento.me/23jjl',
       },
       mail: {
         icon: 'heroicons-solid:envelope',
