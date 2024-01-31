@@ -44,7 +44,7 @@ export default defineAppConfig({
       },
       figma: {
         icon: 'simple-icons:figma',
-        label: 'Read.cv',
+        label: 'Figma',
         href: 'https://www.figma.com/@23jjl',
       },
       substack: {
