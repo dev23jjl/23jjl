@@ -40,7 +40,7 @@ export default defineAppConfig({
       umami: {
         icon: 'simple-icons:umami',
         label: 'Umami',
-        href: 'https://analytics.eu.umami.is/share/tHds3O9wptWDAt6v/23jjl',
+        href: 'https://cloud.umami.is/share/tHds3O9wptWDAt6v/23jjl.nuxt.space',
       },
       figma: {
         icon: 'simple-icons:figma',
